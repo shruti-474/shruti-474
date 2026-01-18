@@ -1,5 +1,5 @@
 # 💫 About Me:
-As i'm fresher, I’m currently working on improving my java programming skills<br>I’m looking to collaborate on beginner-friendly projects related to Java-based applications, simple mobile apps, and real-world problem solving projects.<br>I’m currently learning Java programming, python. <br>i love dancing, exloring new places, and learning new things
+I'm currently working on improving my programming skills.<br>I’m looking to collaborate on real-world projects related to Java-based applications.<br>I’m currently learning Java and Python. <br>I love dancing, exploring new places, and learning new things.
 
 
 ## 🌐 Socials:
